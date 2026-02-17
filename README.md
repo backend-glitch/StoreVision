@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://gitstar-alpha.vercel.app/?date=2026-03-06&title=DEADLINE" />
+<img src="https://img.shields.io/github/last-commit/backend-glitch/StoreVision?style=flat-square&color=purple">
+
+  <img src="https://img.shields.io/github/issues/backend-glitch/StoreVision?color=orange">
+  <img src="https://img.shields.io/github/issues-pr/backend-glitch/StoreVision?color=blue">
+
+  <!-- <img src="https://img.shields.io/github/actions/workflow/status/backend-glitch/StoreVision/main.yml?label=Status&color=brightgreen"> -->
+  <!-- ![Build Status](https://img.shields.io/github/actions/workflow/status/backend-glitch/StoreVision/main.yml?label=CI&color=brightgreen) -->
+
+  </p>
 
 <h1 align="center">📦 Predictive Storage Planner</h1>
 
@@ -82,4 +93,10 @@ SSD Health Simulation: pySMART / smartctl / shell scripts
 Deployment (Optional): Docker, Render / Railway
 
 ---
-<H1><i><footer>SANDDISK - HACKATHON2026 </footer></i></H1>
+
+<a href = "https://winlibs.com/">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:000000&height=120&section=footer&text=✨SANDDISK%20%-%20%HACKATHON2026'✨&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</p>
+</a>
+
