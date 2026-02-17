@@ -3,7 +3,6 @@
 
 Predictive Storage Planner is an AI-powered storage management system that forecasts storage usage, predicts SSD health degradation, and provides intelligent optimization recommendations. It transforms storage from a passive system into a proactive, future-aware platform.
 
-This project was designed for the SanDisk Hackathon.
 ---
 
 ## 🔥 Features
